@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">👋 Hi, I’m @zzSGLzz</h1>
-  <h3 align="center"> I'm a new Java Developer with preference in Android apps</h3>
+  <h3 align="center"> I'm a Java Developer with preference in Android apps</h3>
 </div>
 <p align="center">
   ### ⚙️ &nbsp;GitHub Analytics
