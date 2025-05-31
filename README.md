@@ -2,13 +2,7 @@
   <h1 align="center">👋 Hi, I’m @zzSGLzz</h1>
   <h3 align="center"> I'm a Java Developer with preference in Android apps</h3>
 </div>
-<p align="center">
-  ### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/zzSGLzz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zzSGLzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zzSGLzz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
 <div id="mainbadges" align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
