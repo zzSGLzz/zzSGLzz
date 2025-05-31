@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
 </div>
 
-![](https://leetcard.jacoblin.cool/zzSGLzz?border=0&radius=20&ext=activity)
+
 
 
 - 👀 I’m interested in Android apps, Kotlin and more...
